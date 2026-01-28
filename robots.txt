@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://smp.nature-way.com.tw/sitemap.xml
